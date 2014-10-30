@@ -5,9 +5,10 @@ programmer](/computer-programmer).
 
 Most computer programs are intended to
 [transform](/algorithm-data-transformation) [data](/data) from an unused form to
-a useful form, known as [information](/information).
+[a useful form](/information).
 
-All computer programs follow a common pattern:
+Computer programs follow a common pattern:
+
 * The program is given [input](/input) [data](/data)
 * It [transforms data with algorithm(s)](/algorithm-data-transformation)
 * It provides the results as [output](/output)

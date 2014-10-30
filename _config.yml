@@ -1,8 +1,15 @@
 permalink: "/:title"
 markdown: redcarpet
 defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
+  - scope:
+      path: ""
     values:
       layout: "default"
+      source_url: "https://github.com/codeunion/glossary.codeunion.io/blob/gh-pages/"
+
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+      source_url: "https://github.com/codeunion/glossary.codeunion.io/blob/gh-pages/_posts/2014-01-01-"

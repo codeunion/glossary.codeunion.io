@@ -1,5 +1,5 @@
 ---
-title: Algoritms (Data Transformations)
+title: Algorithms (Data Transformations)
 further-reading:
   - data
   - computer-program

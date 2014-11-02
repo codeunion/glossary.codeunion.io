@@ -4,10 +4,8 @@ program. We eagerly look for feedback and patches!
 All project maintainers and contributors agree to be bound by our [Code of
 Conduct](CODE_OF_CONDUCT.md).
 
-All code falls under this projects [license](LICENSE).
-
-All content is licensed under a [Creative Commons Attribution 4.0
-International License](http://creativecommons.org/licenses/by/4.0/)
+All contributions fall under this projects [Creative Commons Attribution 4.0
+License](LICENSE).
 
 ## Sending Feedback
 Either provide feedback by [creating an

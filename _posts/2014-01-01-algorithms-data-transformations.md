@@ -3,12 +3,11 @@ title: Algorithms (Data Transformations)
 further-reading:
   - data
   - computer-program
+  - function
 ---
 Algorithms are how we transform [data](/data) from one form to another. When
 programming, algorithms are sets of [instructions](/instruction) stored as
-[functions](/function) or [methods](/method). [Computer
-programs](/computer-program) are [composed](/composition) of many algorithms.
-
+[functions](/function).
 
 The following algorithm takes a
 [list](/array-data-type) of names as [input](/input) and

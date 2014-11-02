@@ -3,12 +3,39 @@
 <head>
   <title>{{ page.title }}</title>
   <meta name="Description" content="{{ page.excerpt | strip_html }}" />
+  <link rel="stylesheet" href="//blog.codeunion.io/assets/stylesheets/application.css">
+  <link rel="stylesheet" href="//blog.codeunion.io/assets/stylesheets/syntax.css">
 </head>
 
 <body>
-{{ content }}
+  <div class="fixed contain-to-grid top-bar-container">
+    <nav id="top-bar" class="top-bar" role="navigation" data-topbar="">
+      <ul class="title-area">
+        <li class="name">
+          <h1><a href="http://blog.codeunion.io/"><img src="//blog.codeunion.io/assets/images/logo-web.png"></a></h1>
+        </li>
+      </ul>
+      <section class="top-bar-section top-bar-links">
+        <ul class="right">
+          <li><a href="http://blog.codeunion.io/">Blog</a></li>
+          <li><a href="http://codeunion.io/#workshops">Our Workshops</a></li>
+        </ul>
+      </section>
+    </nav>
+  </div>
+  <div class="page-content">
+    <div class="row">
+      <div class="medium-12 columns">
+        <header>
+          <h1>{{ page.title }}</h1>
+          <p><a href="{{ page.source_url }}{{ page.id | remove_first: '/' }}.md">Edit this Page</a></p>
+        </header>
+        {{ content }}
+      </div>
+      </div>
+    </div>
+  </div>
 
-<a href="{{ page.source_url }}{{ page.id | remove_first: '/' }}.md">Source Code</a>
 
 </body>
 

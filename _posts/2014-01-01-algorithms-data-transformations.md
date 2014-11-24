@@ -13,7 +13,7 @@ The following algorithm takes a
 [list](/array-data-type) of names as [input](/input) and
 returns the longest name as [output](/output):
 
-(In Ruby)
+(in Ruby)
 
 ```ruby
 def find_longest_name(people)
@@ -37,9 +37,9 @@ function findLongestName(people) {
   }, "")
 }
 
-findLongestName(["Annabelle", "Jamal", "Rhonda"])
+findLongestName(["Annabelle", "Jamal", "Rhonda"]);
 // "Annabelle"
-findLongestName(["Jarvis", "Kaitlin", "Adrian"])
+findLongestName(["Jarvis", "Kaitlin", "Adrian"]);
 // "Kaitlin"
 ```
 

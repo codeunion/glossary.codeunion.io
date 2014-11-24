@@ -19,14 +19,14 @@ When we tell a computer to add `5` and `10` together we would get an answer of `
 
 (in Ruby)
 
-``` ruby
+```ruby
 puts 5 + 10
 ```
 
 (in JavaScript)
 
-``` javascript
-console.log(5 + 10)
+```javascript
+console.log(5 + 10);
 ```
 
 When we tell a computer to add `"5"` and `"10"` together, we get an answer of
@@ -34,14 +34,14 @@ When we tell a computer to add `"5"` and `"10"` together, we get an answer of
 
 (in Ruby)
 
-``` ruby
+```ruby
 puts "5" + "10"
 ```
 
 (in JavaScript)
 
-``` javascript
-console.log("5 + "10")
+```javascript
+console.log("5" + "10");
 ```
 
 Data types may be either [basic](/basic-data-types) or

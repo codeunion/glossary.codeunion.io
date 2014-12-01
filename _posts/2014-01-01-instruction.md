@@ -6,14 +6,13 @@ further-reading:
 [Computer programs](/computer-program) are made of sets of instructions.  All
 computer programs boil down to three main instructions:
 
+* Execute a [function](/function)
 * Store [data](/data) in a [variable](/variable)
 * Retrieve data from a variable
-* Execute a [function](/function)
 
 Sometimes we execute functions *on* a piece of data. Other times we excute a
-function *with* a piece of data. Sometimes we do both! This is primarily a
-syntactical difference.  In some programming languages (such as Clojure) we may
-only execute functions *with* data.
+function *with* a piece of data. Sometimes we do both! In some simpler
+programming languages we may only execute functions *with* data.
 
 The following is a set of instructions for executing functions, storing and
 retrieving data, and storing and retrieving functions.

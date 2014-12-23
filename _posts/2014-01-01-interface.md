@@ -3,7 +3,8 @@ further-reading:
   - function-argument
   - return-value
 ---
-An interface is how we interact with code.
+An interface are the names, inputs, and outputs of a piece of code. They are the
+knobs and handles we use to interact with the code.
 
 Interfaces are defined by three things:
 

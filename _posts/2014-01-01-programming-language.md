@@ -11,15 +11,13 @@ Some programming languages, like Ruby, try to avoid forcing people to conform
 to the machine's pedanticism. While this seems like a good idea (Yay! Fewer
 parenthesis!) it may result in ambiguous code which looks valid but is not.
 
-Programming languages are often grouped based on whether they:
-* Must be [compiled](/compiler) before being run, or whether they may be
-  [interpretted](/interpreter) on the fly
-* Validate data [conforms to a declared type](/strong-typing) or if they allow
-  [types to be modified at runtime](/weak-typing).
+Most programming languages have three ways for a person to interact with them:
 
-Most interpreted programming languages have two ways to interact with them. You may:
-
-* Write code into a file and run the file with the language's
-  [interpreter](/interpreter).
-* Start an [interactive session](/interactive-repl) and type commands line
-  by line.
+* Writing code in a file and run the file with the language's
+  [interpreter](/interpreter). This is how languages like Ruby, JavaScript and
+  Python work.
+* Writing code in a file, running that file through the language's
+  [compiler](/compiler), then running the output of the compiler. This is how
+  languages like SASS, CoffeeScript, Clojure, JAVA and C work.
+* Starting an [interactive session](/interactive-repl) and type commands line
+  by line. This is how `irb` or `ipython` work.

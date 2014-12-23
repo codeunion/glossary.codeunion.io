@@ -11,5 +11,10 @@ Interfaces are defined by three things:
 2. The input [data](/data) or [arguments](/function-argument)
 3. The output [data](/data) or [return value](/return-value)
 
-It is important to test and document our interfaces. This provides future-us and
-our collaborators with a better understanding of how to use the code.
+When building applications, we organize our code with [functions](/function) and
+organize our functions into [modules](/module) or [classes](/class). The
+interface of a module or class are it's functions along with those functions
+arguments and return values.
+
+It is important to test and document our interfaces. This provides us and our
+collaborators with a better understanding of how to use the code.

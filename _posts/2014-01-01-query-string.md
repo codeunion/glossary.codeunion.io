@@ -45,7 +45,7 @@ browser.  The form contains a text search box and a drop-down to limit the
 search to a specific product category.  When the user submits the form, they
 might be sent a page containing the search results with a URL like
 
-```
+```text
 http://example.com/products/results?q=epson&category=printers
 ```
 

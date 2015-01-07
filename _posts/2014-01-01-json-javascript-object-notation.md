@@ -2,12 +2,9 @@
 title: JSON (JavaScript Object Notation)
 further-reading:
 ---
+JSON is a very common [data format](/data-format) used in [web services](/web-service-or-web-api). It is very human readable, and supported in many languages.
 
-
-JSON is a very common [data format](/data-format) used in [web
-services](/web-service-or-web-api). It is very human readable, and supported in many
-languages. The following is supermans hero information in a ruby hash and the
-JSON equivalent:
+The following is supermans hero information in a ruby hash and the JSON equivalent:
 
 ```ruby
 {
@@ -17,7 +14,9 @@ JSON equivalent:
   :powers => ["flight", "xray_vision", "heat_vision", "invincibility"]
 }
 ```
+
 now in JSON
+
 ```json
 {
   "alias": "Superman",
@@ -26,5 +25,3 @@ now in JSON
   "powers": ["flight", "xray_vision", "heat_vision", "invincibility"]
 }
 ```
-
-

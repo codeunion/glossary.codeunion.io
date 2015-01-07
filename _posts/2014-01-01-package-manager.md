@@ -1,3 +1,7 @@
+---
+title: Package Manager
+further-reading:
+---
 A package manager is used to install [applications](/application),
 [libraries](/library), and [frameworks](/framework) onto a computer. There are
 two kinds of package managers: [system package
@@ -37,4 +41,3 @@ Below is a list of language package managers and their language:
 * [Pip](https://pip.pypa.io/en/latest/) - Python
 * [Maven](http://maven.apache.org) - Java
 * [Cabal](https://www.haskell.org/cabal/) - Haskell
-

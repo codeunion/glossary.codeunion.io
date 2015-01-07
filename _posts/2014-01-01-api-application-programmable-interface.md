@@ -2,17 +2,8 @@
 title: API (Application Programmable Interface)
 further-reading:
 ---
-
-
 An API is a way to expose parts of a program so other programs may use it.
 
-APIs can be built on the [Web](/web) as [Web
-Services](/web-services-or-web-apis) or they can be programs running on your
-computer.
+APIs can be built on the [Web](/web) as [Web Services](/web-services-or-web-apis) or they can be programs running on your computer.
 
-An example of an API for a program are browser plugins. Plugins such as [Hey
-Girl](https://chrome.google.com/webstore/detail/hey-girl/jcpmmhaffdebnmkjelaohgjmndeongip)
-and [Mustachio
-Redux](https://chrome.google.com/webstore/detail/mustachio-redux/hbnnipmnpgiepegnlmekieblhjmchmbf)
-use the browsers api to change pictures as you browse the web.
-
+An example of an API for a program are browser plugins. Plugins such as [Hey Girl](https://chrome.google.com/webstore/detail/hey-girl/jcpmmhaffdebnmkjelaohgjmndeongip) and [Mustachio Redux](https://chrome.google.com/webstore/detail/mustachio-redux/hbnnipmnpgiepegnlmekieblhjmchmbf) use the browsers api to change pictures as you browse the web.

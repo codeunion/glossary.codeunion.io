@@ -2,7 +2,7 @@
 title: Schema (Databases)
 further-reading:
 ---
-A database `schema` is a term used to describe the [tables](/table-databases), [columns](/column-databases) in tables, and [relationships between tables](/relational-databases).
+A database `schema` is a term used to describe the [tables](/table-databases), [columns](/column-databases) in tables, and [relationships between tables](/relational-database).
 
 Here's an example of a schema describing a task list:
 

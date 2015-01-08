@@ -1,5 +1,5 @@
 ---
-title: Relational Databases
+title: Relational Database
 further-reading:
 ---
 Relational databases are built on the premise that data is useful primarily in how it relates to other data.

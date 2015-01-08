@@ -1,5 +1,5 @@
 ---
-title: Key/Value Pair (Concept)
+title: Key/Value Pair
 further-reading:
 ---
 A Key/Value pair is a way to connect [data](/data) with human friendly names. Often key-value pairs are held within a container. Key value pairs are used everywhere in programming.

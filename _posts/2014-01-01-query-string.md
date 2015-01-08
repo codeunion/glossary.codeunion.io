@@ -3,7 +3,7 @@ title: Query String
 further-reading:
 ---
 In the context of the world wide web, a _query string_ is the part of a [URL or
-web address](/url-uniform-resource-locator) containing data that does not fit
+web address](/url) containing data that does not fit
 into the conventional, path-like structure of a URL.
 
 It's separated from the other parts of the URL by a question mark `?` character.

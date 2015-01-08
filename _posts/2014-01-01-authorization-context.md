@@ -2,7 +2,7 @@
 title: Authorization Context
 further-reading:
 ---
-The Twitter API allows your application to work in two contexts: the application context and the user context.
+Many APIs that offer authentication via OAuth will allow your application to work in two contexts: the application context and the user context.
 
 * The Application context identifies which application is making each request
   using a [Consumer Key](/consumer-key) and a [Consumer Secret](/consumer-secret)

@@ -9,4 +9,4 @@ There are four main "verbs" used in [web services](/web-services-or-web-apis):
 * PUT - Replaces data in the service
 * DELETE - Removes data from the service
 
-Every [HTTP Request](/request) uses one of these verbs in conjunction with a [URL](/url-uniform-resource-locator) to change [data](/data) in the web service.
+Every [HTTP Request](/http-request) uses one of these verbs in conjunction with a [URL](/url-uniform-resource-locator) to change [data](/data) in the web service.

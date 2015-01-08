@@ -1,5 +1,5 @@
 ---
-title: Request
+title: HTTP Request
 further-reading:
 ---
 HTTP requests are one half of the [Request/Response Cycle](/request-response-cycle).

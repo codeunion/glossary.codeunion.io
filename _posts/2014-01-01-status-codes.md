@@ -2,7 +2,7 @@
 title: Status Codes
 further-reading:
 ---
-Status codes are part of the [response](/response) that carries quite a bit of information. Status codes start with the numbers 1 to 5, and each have specific meaning:
+Status codes are part of the [response](/http-response) that carries quite a bit of information. Status codes start with the numbers 1 to 5, and each have specific meaning:
 
 * 1XX - Informational
 * 2XX - Success

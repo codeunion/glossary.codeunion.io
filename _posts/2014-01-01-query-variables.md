@@ -2,7 +2,7 @@
 title: Query Variables
 further-reading:
 ---
-Query variables are used to pass [data](/data) to the server in an [HTTP Request](/request).
+Query variables are used to pass [data](/data) to the server in an [HTTP Request](/http-request).
 
 They are part of a [URL](/url-uniform-reseource-locator)
 that comes after the `?`; and follow the format

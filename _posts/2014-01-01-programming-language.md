@@ -1,3 +1,7 @@
+---
+title: Programming Language
+further-reading:
+---
 A programming language bridges the gap between [machine code](/machine-code)
 and human language. It's a tool for humans to provide
 [instructions](/instruction) a computer can understand.

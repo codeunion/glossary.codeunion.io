@@ -1,3 +1,7 @@
+---
+title: Computer Program
+further-reading:
+---
 A computer program is a set of instructions provided to and executed by a
 computer. Computer programs are written in a
 [programming-language](/programming-language) by a [computer

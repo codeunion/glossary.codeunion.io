@@ -1,10 +1,10 @@
 ---
+title: Data Types
 further-reading:
   - data
   - composite-data-types
   - basic-data-types
 ---
-
 Data Types tell us how some [data](/data) is being represented and how we can
 interact with it. Knowing some data's type opens up a developers options
 for working with it significantly.

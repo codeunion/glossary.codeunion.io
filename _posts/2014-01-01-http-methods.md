@@ -2,7 +2,7 @@
 title: HTTP Methods
 further-reading:
 ---
-There are four main "verbs" used in [web services](/web-services-or-web-apis):
+There are four main "verbs" used in [web services](/web-service):
 
 * GET - Retrieves data from the service
 * POST - Adds data to the service

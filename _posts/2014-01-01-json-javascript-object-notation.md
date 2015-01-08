@@ -4,7 +4,7 @@ further-reading:
 ---
 JSON is a very common [data format](/data-format) used in [web services](/web-service-or-web-api). It is very human readable, and supported in many languages.
 
-The following is supermans hero information in a ruby hash and the JSON equivalent:
+The following is Superman's hero information in a ruby hash and the JSON equivalent:
 
 ```ruby
 {
